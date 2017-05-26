@@ -1,0 +1,25 @@
+{
+  "name": "iamsandip",
+  "version": "1.0.0",
+  "description": "this ll fuck the world",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbhuyan28/reactjs.git"
+  },
+  "author": "sbhuyan28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbhuyan28/reactjs/issues"
+  },
+  "homepage": "https://github.com/sbhuyan28/reactjs#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
